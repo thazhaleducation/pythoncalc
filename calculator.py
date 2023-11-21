@@ -1,1 +1,2 @@
-print("It a  draft")
+def add(a, b):
+  return a + b
