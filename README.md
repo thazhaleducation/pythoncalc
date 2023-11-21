@@ -1,1 +1,3 @@
-This is commandline calculator application
+# This is commandline calculator application
+## Stack:
+- Python
